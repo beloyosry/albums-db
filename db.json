@@ -1,16 +1,10 @@
 {
-  "posts":[
+  "users": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "name": "Travis Koss",
+      "id": 1
     }
   ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
-  ]
+  "albums": [],
+  "photos": []
 }
